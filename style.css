@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #dffff4;
+}
+
+#product,
+#footer {
+  background-color: #dffff4;
+}
+
+section {
+  padding-top: 4rem;
+}
